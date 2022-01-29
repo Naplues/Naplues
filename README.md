@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Naplues
-- 👀 I’m interested in Software Quality Assurance.
+- 👀 I’m interested in .
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Wechat: gzqttt
+- 📫 How to reach me ... 
 
 <!---
 Naplues/Naplues is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
